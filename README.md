@@ -20,8 +20,9 @@ I am Jash Patel, Computer Science Undergraduate from Indian Institute of Technol
 - [Gmail](mailto:jashvpatel1@gmail.com)
 - [Instagram](https://www.instagram.com/kanani.jash/)
 - [Facebook](https://www.facebook.com/jash.kanani.5/)
+
+- 😄 [Portfolio](https://jashpatel1.github.io/)
 <!--
-- 😄 Pronouns:
 - ⚡ Fun fact: ... 
 -->
 ![image](https://github-readme-stats.vercel.app/api?username=Jashpatel1&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
