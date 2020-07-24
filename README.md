@@ -21,7 +21,7 @@ I am Jash Patel, Computer Science Undergraduate from Indian Institute of Technol
 - [Instagram](https://www.instagram.com/kanani.jash/)
 - [Facebook](https://www.facebook.com/jash.kanani.5/)
 
-- 😄 [Portfolio](https://jashpatel1.github.io/)
+> 😄 [Portfolio](https://jashpatel1.github.io/)
 <!--
 - ⚡ Fun fact: ... 
 -->
