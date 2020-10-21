@@ -25,5 +25,5 @@ I am Jash Patel, Computer Science Undergraduate from Indian Institute of Technol
 <!--
 - ⚡ Fun fact: ... 
 -->
-![image](https://github-readme-stats.vercel.app/api?username=Jashpatel1&&show_icons=true&&include_all_commits=true&count_private=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
+![image](https://github-readme-stats.vercel.app/api?username=Jashpatel1&hide=stars&show_icons=true&&include_all_commits=true&count_private=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
 
