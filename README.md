@@ -7,8 +7,7 @@ Here are some ideas to get you started:
 -->
 I am Jash Patel, Computer Science Undergraduate from Indian Institute of Technology, Jodhpur.
 
-- 🔭 I’m currently working on Vue and React
-- 🌱 I’m currently balancing myself between Competitive and Development Programming
+- 🔭 I’m currently working on React, Gatsby and Strapi
 - 👯 I’m looking to collaborate on Open Source Projects
 <!--
 - 🤔 I’m looking for help with ...
