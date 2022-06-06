@@ -5,14 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-I am Jash Patel, Computer Science Undergraduate from Indian Institute of Technology, Jodhpur.
-
-- 🔭 I’m currently working on React, Gatsby and Strapi
-- 👯 I’m looking to collaborate on Open Source Projects
-<!--
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
--->
+I am Jash Patel, Software Developer at Avataar.
 
 > 📫 How to reach me: 
 - [LinkedIn](https://www.linkedin.com/in/jash-patel-78a998173/)
